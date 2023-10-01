@@ -10,4 +10,4 @@ class Student:
   def get_grade(self):
     return self.grade
   def display_student_info(self):
-    print("Name:", self.name, "\nStudent_ID:", self.student_id, "\nAge:", self.age, "\nGender:", self.gender, "\nGrade:", self.grade)
+    print("Name:", self.name, "\nStudent_ID:", self.student_id, "\nAge:", self.age, "\nGender:", self.gender, "\nGrade:", self.grade, '\n')
